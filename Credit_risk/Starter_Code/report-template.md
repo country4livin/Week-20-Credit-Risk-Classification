@@ -19,7 +19,7 @@ The model was then evaluated by comparing the predictions with the test labels.
 
 Using bulleted lists, describe the accuracy scores and the precision and recall scores of all machine learning models.
 
-* Machine Learning Model: Linear Regression
+* Machine Learning Model: Logistic Regression
     - Accuracy: .99
     - Precision: 
         - Healthy: 1.00
